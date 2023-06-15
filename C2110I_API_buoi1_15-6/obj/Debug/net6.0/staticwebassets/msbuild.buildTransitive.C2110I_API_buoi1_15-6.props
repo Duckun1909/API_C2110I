@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\C2110I_API_buoi1_15-6.props" />
+</Project>
