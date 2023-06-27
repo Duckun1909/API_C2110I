@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_C2110I_CURD_buoi4", "API_C2110I_CURD_buoi4.csproj", "{6A371C40-446D-4756-8017-ABFCD61629CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A371C40-446D-4756-8017-ABFCD61629CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A371C40-446D-4756-8017-ABFCD61629CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A371C40-446D-4756-8017-ABFCD61629CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A371C40-446D-4756-8017-ABFCD61629CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {667F106A-087F-452D-B0A6-2126FBBF5A46}
+	EndGlobalSection
+EndGlobal
